@@ -30,14 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </div>
 
----
-
-## 🚀 Projects
-- 📈 [Data Analysis Project 1](#) – تحليل بيانات باستخدام Python و Pandas.  
-- 📊 [Visualization Project](#) – عمل Dashboard باستخدام Matplotlib و Seaborn.  
-- 🗄️ [SQL Queries](#) – أمثلة Queries مع قواعد بيانات MySQL.  
-
----
 
 ## 🌐 Connect with me
 <p align="left">

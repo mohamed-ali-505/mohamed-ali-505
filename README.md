@@ -1,52 +1,45 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="90"/>
 
-# Hi 👋, I'm Mohamed Ali  
-### 🎓 Communication Engineering Graduate | 📊 Data Analyst | 💻 Data Science Enthusiast  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Python+Developer;Data+Analyst;Data+Science+Learner;Always+Learning)](https://git.io/typing-svg)
-
----
-
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ali-258920315/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mano.chero@gmail.com)  
+  ## Hi, I'm Mohamed  
+  **Data Analyst | Python | SQL | Visualization**
+</div>
 
 ---
 
 ## 🛠️ Languages & Tools
-**Core (Data Analysis):**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://matplotlib.org/_static/logo2.svg" width="40" height="40"/> 
-</p>
-
-**Databases & Version Control:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-  <img src="https://img.icons8.com/ios/452/sql.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> 
-</p>
-
-**Other Experience:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</div>
 
 ---
 
-✨ *Thanks for visiting my profile!*
+## 🚀 Projects
+- 📈 [Data Analysis Project 1](#) – تحليل بيانات باستخدام Python و Pandas.  
+- 📊 [Visualization Project](#) – عمل Dashboard باستخدام Matplotlib و Seaborn.  
+- 🗄️ [SQL Queries](#) – أمثلة Queries مع قواعد بيانات MySQL.  
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>

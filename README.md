@@ -4,6 +4,8 @@
 
   ## Hi, I'm Mohamed  
   **Data Analyst | Python | SQL | Visualization**
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 ---

@@ -16,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/> <!-- NumPy -->
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> <!-- Matplotlib -->
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-seaborn-a-python-data-visualization-library-based-on-matplotlib-logo-color-tal-revivo.png" width="40" height="40"/> <!-- Seaborn -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>

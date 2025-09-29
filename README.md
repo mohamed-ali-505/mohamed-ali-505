@@ -1,13 +1,12 @@
 # Hi 👋, I'm Mohamed Ali  
-### 🎓 Communication Engineering Student | 💻 Data Science Enthusiast | 📊 AI & Analytics Explorer  
+### 🎓 Communication Engineering Graduate | 📊 Data Analyst | 💻 Data Science Enthusiast  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Python+Developer;Data+Science+Learner;AI+Explorer;Cybersecurity+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Python+Developer;Data+Analyst;Data+Science+Learner;AI+Explorer)](https://git.io/typing-svg)
 
 ---
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ali-258920315/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mohamed-ali-505)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mano.chero@gmail.com)  
 
 ---
@@ -25,9 +24,9 @@
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

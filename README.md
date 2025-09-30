@@ -46,7 +46,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ali-258920315/" target="blank">
+  <a href="https://www.linkedin.com/in/mohamed-ali505/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>

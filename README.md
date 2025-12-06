@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats-iota-peach.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-iota-peach.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact&theme=radical" height="160"/>
 </div>
 
 ---

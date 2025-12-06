@@ -36,14 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-iota-peach.vercel.app/api?username=mohamed-ali-505&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats-iota-peach.vercel.app/api/top-langs/?username=mohamed-ali-505&layout=compact&theme=radical" height="160"/>
-</div>
-
----
-
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-ali505/" target="blank">
